@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:50:10 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -17,6 +17,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Pelicans Broke How I Understand Pro Basketball | Defector</title>
+      <description>&lt;p&gt;It&#x27;s unlikely that you spend much time thinking about the New Orleans Pelicans. However, as a New Orleans resident for whom ball is life, I am rather fixated on them. This team is far stranger than you may have previously understood.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball&quot;&gt;Read the original&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">bafd29a9-d600-4236-9f16-371b1e2e28d4</guid>
+      <pubDate>Wed, 21 Oct 2026 05:50:10 +0000</pubDate>
+      <link>https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball</link>
+      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-the-pelicans-broke-how-i-understand-pro-basketball-defector.m4a" length="4270259" type="audio/x-m4a"/>
+      <itunes:duration>520</itunes:duration>
+    </item>
     <item>
       <title>The Big 12 admitting to this mistake caps a whole Saturday of college…</title>
       <description>&lt;p&gt;The Big 12 admitting to this mistake caps a whole Saturday of college football officiating arguments—like whether or not Florida State deserved a touchdown at the end of their overtime loss to Miami.&lt;/p&gt;</description>
