@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:10:19 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -17,14 +17,6 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <item>
-      <title>The Big 12 admitting to this mistake caps a whole Saturday of college…</title>
-      <description>&lt;p&gt;The Big 12 admitting to this mistake caps a whole Saturday of college football officiating arguments—like whether or not Florida State deserved a touchdown at the end of their overtime loss to Miami.&lt;/p&gt;</description>
-      <guid isPermaLink="false">fa78b0dc-1bb5-44f0-8bb4-2344f670baff</guid>
-      <pubDate>Wed, 21 Oct 2026 05:03:43 +0000</pubDate>
-      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o-2.m4a" length="559158" type="audio/x-m4a"/>
-      <itunes:duration>68</itunes:duration>
-    </item>
     <item>
       <title>The Big 12 admitting to this mistake caps a whole Saturday of college…</title>
       <description>&lt;p&gt;The Big 12 admitting to this mistake caps a whole Saturday of college football officiating arguments—like whether or not Florida State deserved a touchdown at the end of their overtime loss to Miami.&lt;/p&gt;</description>
