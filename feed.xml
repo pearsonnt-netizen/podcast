@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:57:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:00:05 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -17,6 +17,14 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Big 12 admitting to this mistake caps a whole Saturday of college…</title>
+      <description>&lt;p&gt;The Big 12 admitting to this mistake caps a whole Saturday of college football officiating arguments—like whether or not Florida State deserved a touchdown at the end of their overtime loss to Miami.&lt;/p&gt;</description>
+      <guid isPermaLink="false">49a2482e-c977-43b1-aea4-8b9345cd767a</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:05 +0000</pubDate>
+      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o.m4a" length="559158" type="audio/x-m4a"/>
+      <itunes:duration>68</itunes:duration>
+    </item>
     <item>
       <title>Nobody got laid at BYU last night, but it looked like a fun party all…</title>
       <description>&lt;p&gt;Nobody got laid at BYU last night, but it looked like a fun party all the same. The eighth-ranked Cougars hosted the No. 2 Notre Dame Fighting Irish in the big primetime slot Saturday, and they stayed undefeated by squeaking out a 28-24 win.&lt;/p&gt;</description>
