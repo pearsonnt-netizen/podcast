@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:18:23 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -17,6 +17,18 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Here&#x27;s the clean, uninterrupted 40-minute back-and-forth script…</title>
+      <description>&lt;p&gt;Here&#x27;s the clean, uninterrupted 40-minute back-and-forth script labeled for Speakers A and B.
+
+Act I: From the Microscope to the Couch (0:00 – 08:00)
+
+A: Welcome back, everyone.&lt;/p&gt;</description>
+      <guid isPermaLink="false">0de44b57-06dd-4b69-92d1-951fabc9d012</guid>
+      <pubDate>Thu, 22 Oct 2026 02:18:23 +0000</pubDate>
+      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-22-here-s-the-clean-uninterrupted-40-minute-back-and-forth-scri.m4a" length="32214111" type="audio/x-m4a"/>
+      <itunes:duration>3944</itunes:duration>
+    </item>
     <item>
       <title>The Pelicans Broke How I Understand Pro Basketball | Defector</title>
       <description>&lt;p&gt;It&#x27;s unlikely that you spend much time thinking about the New Orleans Pelicans. However, as a New Orleans resident for whom ball is life, I am rather fixated on them. This team is far stranger than you may have previously understood.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball&quot;&gt;Read the original&lt;/a&gt;&lt;/p&gt;</description>
