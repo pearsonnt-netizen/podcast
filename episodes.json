@@ -1,5 +1,43 @@
 [
   {
+    "guid": "09469d28-fadc-41ac-b264-13bb234a0e4b",
+    "title": "Queen's Domain: The Two-Person Hit",
+    "description": "A look at Queen's Domain, a retro first-person fantasy action RPG made by a two-person team. We cover the premise, how it plays, early reviews, and its strong first week of sales.",
+    "file": "episodes/2026-11-10-queen-s-domain-the-two-person-hit.m4a",
+    "size": 2391459,
+    "duration": 291,
+    "published": "2026-11-10T21:19:04+00:00",
+    "source_url": "",
+    "sources": [
+      {
+        "title": "Queen's Domain Review (RPG Site)",
+        "url": "https://www.rpgsite.net/review/21673-queens-domain-review"
+      },
+      {
+        "title": "Queen's Domain launches October 30 for PS5, Xbox Series, Switch 2, and PC - Gematsu",
+        "url": "https://www.gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc"
+      },
+      {
+        "title": "Review: Queen's Domain (Switch 2) - An Incredible Tribute To FromSoft, And One Of 2026's Best Surprises (Nintendo Life)",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/queens-domain"
+      },
+      {
+        "title": "Queen's Domain Crosses 10K Concurrent Players — Best Price & Impressions (DLCompare)",
+        "url": "https://www.dlcompare.com/gaming-news/queen-s-domain-crosses-10k-concurrent-players-best-price-impressions-89345"
+      },
+      {
+        "title": "Retro Action-RPG Queen's Domain Breaks Out as Commercial and Critical Hit (Enduins)",
+        "url": "https://www.enduins.com/news/retro-action-rpg-queens-domain-breaks-out-as-commercial-and-critical-hit"
+      },
+      {
+        "title": "Stats - Queen's Domain - IsThereAnyDeal",
+        "url": "https://isthereanydeal.com/game/queens-domain/stats/"
+      }
+    ],
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-11/2026-11-10-queen-s-domain-the-two-person-hit.m4a",
+    "asset": 732985769
+  },
+  {
     "guid": "a9d4ce9c-c1c1-456c-9a90-2902018ac18d",
     "title": "Psychiatry Weekly: Psilocybin NDA and Methadone After Overdose",
     "description": "Compass Pathways completes its NDA for COMP360 in treatment-resistant depression, a Canadian cohort compares methadone and buprenorphine after overdose, and overdose deaths keep falling. Plus a quiet week in consultation-liaison and neuropsychiatry, and a round-up.",
