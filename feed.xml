@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:58:23 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -53,14 +53,6 @@ A: Welcome back, everyone.&lt;/p&gt;</description>
       <pubDate>Wed, 21 Oct 2026 05:00:05 +0000</pubDate>
       <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o.m4a" length="559158" type="audio/x-m4a"/>
       <itunes:duration>68</itunes:duration>
-    </item>
-    <item>
-      <title>Nobody got laid at BYU last night, but it looked like a fun party all…</title>
-      <description>&lt;p&gt;Nobody got laid at BYU last night, but it looked like a fun party all the same. The eighth-ranked Cougars hosted the No. 2 Notre Dame Fighting Irish in the big primetime slot Saturday, and they stayed undefeated by squeaking out a 28-24 win.&lt;/p&gt;</description>
-      <guid isPermaLink="false">44a728bf-1557-4b24-9413-505a5e0a1c6e</guid>
-      <pubDate>Wed, 21 Oct 2026 04:57:17 +0000</pubDate>
-      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-nobody-got-laid-at-byu-last-night-but-it-looked-like-a-fun-p.m4a" length="412018" type="audio/x-m4a"/>
-      <itunes:duration>50</itunes:duration>
     </item>
   </channel>
 </rss>
