@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 02:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:04:11 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -26,7 +26,7 @@ Act I: From the Microscope to the Couch (0:00 – 08:00)
 A: Welcome back, everyone.&lt;/p&gt;</description>
       <guid isPermaLink="false">0de44b57-06dd-4b69-92d1-951fabc9d012</guid>
       <pubDate>Thu, 22 Oct 2026 02:18:23 +0000</pubDate>
-      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-22-here-s-the-clean-uninterrupted-40-minute-back-and-forth-scri.m4a" length="32214111" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-22-here-s-the-clean-uninterrupted-40-minute-back-and-forth-scri.m4a" length="32214111" type="audio/x-m4a"/>
       <itunes:duration>3944</itunes:duration>
     </item>
     <item>
@@ -35,7 +35,7 @@ A: Welcome back, everyone.&lt;/p&gt;</description>
       <guid isPermaLink="false">bafd29a9-d600-4236-9f16-371b1e2e28d4</guid>
       <pubDate>Wed, 21 Oct 2026 05:50:10 +0000</pubDate>
       <link>https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball</link>
-      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-the-pelicans-broke-how-i-understand-pro-basketball-defector.m4a" length="4270259" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-pelicans-broke-how-i-understand-pro-basketball-defector.m4a" length="4270259" type="audio/x-m4a"/>
       <itunes:duration>520</itunes:duration>
     </item>
     <item>
@@ -43,7 +43,7 @@ A: Welcome back, everyone.&lt;/p&gt;</description>
       <description>&lt;p&gt;The Big 12 admitting to this mistake caps a whole Saturday of college football officiating arguments—like whether or not Florida State deserved a touchdown at the end of their overtime loss to Miami.&lt;/p&gt;</description>
       <guid isPermaLink="false">49a2482e-c977-43b1-aea4-8b9345cd767a</guid>
       <pubDate>Wed, 21 Oct 2026 05:00:05 +0000</pubDate>
-      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o.m4a" length="559158" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o.m4a" length="559158" type="audio/x-m4a"/>
       <itunes:duration>68</itunes:duration>
     </item>
     <item>
@@ -51,7 +51,7 @@ A: Welcome back, everyone.&lt;/p&gt;</description>
       <description>&lt;p&gt;Nobody got laid at BYU last night, but it looked like a fun party all the same. The eighth-ranked Cougars hosted the No. 2 Notre Dame Fighting Irish in the big primetime slot Saturday, and they stayed undefeated by squeaking out a 28-24 win.&lt;/p&gt;</description>
       <guid isPermaLink="false">44a728bf-1557-4b24-9413-505a5e0a1c6e</guid>
       <pubDate>Wed, 21 Oct 2026 04:57:17 +0000</pubDate>
-      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-nobody-got-laid-at-byu-last-night-but-it-looked-like-a-fun-p.m4a" length="412018" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-nobody-got-laid-at-byu-last-night-but-it-looked-like-a-fun-p.m4a" length="412018" type="audio/x-m4a"/>
       <itunes:duration>50</itunes:duration>
     </item>
     <item>
@@ -60,7 +60,7 @@ A: Welcome back, everyone.&lt;/p&gt;</description>
       <guid isPermaLink="false">d22483bd-8aa2-459d-85f6-55e2b6da2077</guid>
       <pubDate>Wed, 21 Oct 2026 04:47:42 +0000</pubDate>
       <link>https://paulgraham.com/hwh.html</link>
-      <enclosure url="https://pearsonnt-netizen.github.io/podcast/episodes/2026-10-21-how-to-work-hard.m4a" length="7967685" type="audio/x-m4a"/>
+      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-how-to-work-hard.m4a" length="7967685" type="audio/x-m4a"/>
       <itunes:duration>968</itunes:duration>
     </item>
   </channel>

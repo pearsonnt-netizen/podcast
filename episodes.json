@@ -7,7 +7,9 @@
     "size": 32214111,
     "duration": 3944,
     "published": "2026-10-22T02:18:23+00:00",
-    "source_url": ""
+    "source_url": "",
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-22-here-s-the-clean-uninterrupted-40-minute-back-and-forth-scri.m4a",
+    "asset": 730035461
   },
   {
     "guid": "bafd29a9-d600-4236-9f16-371b1e2e28d4",
@@ -17,7 +19,9 @@
     "size": 4270259,
     "duration": 520,
     "published": "2026-10-21T05:50:10+00:00",
-    "source_url": "https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball"
+    "source_url": "https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball",
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-pelicans-broke-how-i-understand-pro-basketball-defector.m4a",
+    "asset": 730035556
   },
   {
     "guid": "49a2482e-c977-43b1-aea4-8b9345cd767a",
@@ -27,7 +31,9 @@
     "size": 559158,
     "duration": 68,
     "published": "2026-10-21T05:00:05+00:00",
-    "source_url": ""
+    "source_url": "",
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o.m4a",
+    "asset": 730035624
   },
   {
     "guid": "44a728bf-1557-4b24-9413-505a5e0a1c6e",
@@ -37,7 +43,9 @@
     "size": 412018,
     "duration": 50,
     "published": "2026-10-21T04:57:17+00:00",
-    "source_url": ""
+    "source_url": "",
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-nobody-got-laid-at-byu-last-night-but-it-looked-like-a-fun-p.m4a",
+    "asset": 730035686
   },
   {
     "guid": "d22483bd-8aa2-459d-85f6-55e2b6da2077",
@@ -47,6 +55,8 @@
     "size": 7967685,
     "duration": 968,
     "published": "2026-10-21T04:47:42+00:00",
-    "source_url": "https://paulgraham.com/hwh.html"
+    "source_url": "https://paulgraham.com/hwh.html",
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-how-to-work-hard.m4a",
+    "asset": 730035760
   }
 ]
