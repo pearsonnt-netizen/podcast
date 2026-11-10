@@ -6,7 +6,7 @@
     <atom:link href="https://pearsonnt-netizen.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Articles, notes and documents, read aloud.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:58:26 +0000</lastBuildDate>
     <image>
       <url>https://pearsonnt-netizen.github.io/podcast/cover.png</url>
       <title>My Reading List</title>
@@ -45,14 +45,6 @@ A: Welcome back, everyone.&lt;/p&gt;</description>
       <link>https://defector.com/the-pelicans-broke-how-i-understand-pro-basketball</link>
       <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-pelicans-broke-how-i-understand-pro-basketball-defector.m4a" length="4270259" type="audio/x-m4a"/>
       <itunes:duration>520</itunes:duration>
-    </item>
-    <item>
-      <title>The Big 12 admitting to this mistake caps a whole Saturday of college…</title>
-      <description>&lt;p&gt;The Big 12 admitting to this mistake caps a whole Saturday of college football officiating arguments—like whether or not Florida State deserved a touchdown at the end of their overtime loss to Miami.&lt;/p&gt;</description>
-      <guid isPermaLink="false">49a2482e-c977-43b1-aea4-8b9345cd767a</guid>
-      <pubDate>Wed, 21 Oct 2026 05:00:05 +0000</pubDate>
-      <enclosure url="https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-10/2026-10-21-the-big-12-admitting-to-this-mistake-caps-a-whole-saturday-o.m4a" length="559158" type="audio/x-m4a"/>
-      <itunes:duration>68</itunes:duration>
     </item>
   </channel>
 </rss>
