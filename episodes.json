@@ -1,5 +1,67 @@
 [
   {
+    "guid": "a9d4ce9c-c1c1-456c-9a90-2902018ac18d",
+    "title": "Psychiatry Weekly: Psilocybin NDA and Methadone After Overdose",
+    "description": "Compass Pathways completes its NDA for COMP360 in treatment-resistant depression, a Canadian cohort compares methadone and buprenorphine after overdose, and overdose deaths keep falling. Plus a quiet week in consultation-liaison and neuropsychiatry, and a round-up.",
+    "file": "episodes/2026-11-10-psychiatry-weekly-psilocybin-nda-and-methadone-after-overdos.m4a",
+    "size": 8002198,
+    "duration": 972,
+    "published": "2026-11-10T05:04:41+00:00",
+    "source_url": "",
+    "sources": [
+      {
+        "title": "NDA Submission Complete: COMP360 Psilocybin for Treatment-Resistant Depression",
+        "url": "https://www.psychiatrictimes.com/view/nda-submission-complete-comp360-psilocybin-for-treatment-resistant-depression"
+      },
+      {
+        "title": "Methadone vs Buprenorphine-Naloxone in Opioid Overdose Survivors (JAMA Netw Open)",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2853267"
+      },
+      {
+        "title": "Methadone Treatment After Opioid Overdose Associated With 22% Lower Mortality Than Buprenorphine-Naloxone (OPEN MINDS)",
+        "url": "https://openminds.com/market-intelligence/news/methadone-treatment-after-opioid-overdose-associated-with-22-lower-mortality-than-buprenorphine-naloxone/"
+      },
+      {
+        "title": "This Congress has one last chance to unlock methadone treatment (Reason)",
+        "url": "https://reason.com/2026/11/09/this-congress-has-one-last-chance-to-unlock-methadone-treatment/"
+      },
+      {
+        "title": "U.S. drug overdose deaths falling, CDC estimates, but some areas still struggling (Axios, search snippet only)",
+        "url": "https://www.axios.com/2026/11/03/overdose-deaths-falling-cdc"
+      },
+      {
+        "title": "Private equity is buying up more methadone clinics (Cobb County Courier, search snippet only)",
+        "url": "https://cobbcountycourier.com/2026/11/private-equity-is-buying-up-more-methadone-clinics-access-to-the-lifesaving-drug-isnt-getting-easier"
+      },
+      {
+        "title": "New study suggests 3 in 4 former NFL players who died from 2008 to 2023 had CTE (CNN, partial)",
+        "url": "https://www.cnn.com/2026/10/28/health/former-nfl-players-cte"
+      },
+      {
+        "title": "New study reveals widespread signs of brain trauma among former NFL players (PBS NewsHour, search snippet only)",
+        "url": "https://www.pbs.org/newshour/show/new-study-reveals-widespread-signs-of-brain-trauma-among-former-nfl-players"
+      },
+      {
+        "title": "Hits to center of head are more predictive of concussions for athletes: Study (ABC News)",
+        "url": "https://abcnews.com/Health/hits-center-head-predictive-concussions-athletes-study/story?id=137970508"
+      },
+      {
+        "title": "AI-Powered Precision Brain Stimulation Reduces PTSD in Weeks (Psychology Today)",
+        "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202611/ai-powered-precision-brain-stimulation-reduces-ptsd-in-weeks"
+      },
+      {
+        "title": "November in Review: Updates on the Psychiatric Treatment Pipeline (Psychiatric Times; dating uncertain)",
+        "url": "https://www.psychiatrictimes.com/view/november-in-review-updates-on-the-psychiatric-treatment-pipeline"
+      },
+      {
+        "title": "Psychiatric Times home page",
+        "url": "https://www.psychiatrictimes.com/"
+      }
+    ],
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-11/2026-11-10-psychiatry-weekly-psilocybin-nda-and-methadone-after-overdos.m4a",
+    "asset": 730182009
+  },
+  {
     "guid": "0de44b57-06dd-4b69-92d1-951fabc9d012",
     "title": "Here's the clean, uninterrupted 40-minute back-and-forth script…",
     "description": "Here's the clean, uninterrupted 40-minute back-and-forth script labeled for Speakers A and B.\n\nAct I: From the Microscope to the Couch (0:00 – 08:00)\n\nA: Welcome back, everyone.",
