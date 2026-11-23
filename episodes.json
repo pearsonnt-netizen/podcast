@@ -1,5 +1,51 @@
 [
   {
+    "guid": "fb2026d4-a138-4e20-b2da-da88d9fa2cd5",
+    "title": "Psychiatry Weekly: CTE Blood Markers, and the DEA Telemedicine Cliff",
+    "description": "Two JAMA studies find a plasma tau marker elevated in autopsy-confirmed advanced CTE, but it is not a clinical test. Plus falling overdose deaths, a methadone dose and quality-of-life study, and five weeks left on DEA telemedicine flexibilities.",
+    "file": "episodes/2026-11-23-psychiatry-weekly-cte-blood-markers-and-the-dea-telemedicine.m4a",
+    "size": 7664875,
+    "duration": 931,
+    "published": "2026-11-23T15:17:31+00:00",
+    "source_url": "",
+    "sources": [
+      {
+        "title": "New Study Identifies Blood Test that May Detect CTE During Life (Boston University CAMed press release, Nov 19, 2026)",
+        "url": "https://www.bumc.bu.edu/camed/news-events/articles/2026/new-study-identifies-blood-test-that-may-detect-cte-during-life/"
+      },
+      {
+        "title": "Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. (Boston Globe, Nov 19, 2026)",
+        "url": "https://bostonglobe.com/2026/11/19/metro/cte-diagnosis-blood-test-bu"
+      },
+      {
+        "title": "A New Discovery Could Finally Make It Possible to Diagnose CTE (National Geographic, Nov 20, 2026)",
+        "url": "https://nationalgeographic.com/health/article/cte-blood-test-diagnosis-brain-disease"
+      },
+      {
+        "title": "U.S. Drug Overdose Deaths Decrease for 18th Consecutive Month Under Trump Administration (White House ONDCP, Nov 16, 2026)",
+        "url": "https://www.whitehouse.gov/releases/2026/11/u-s-drug-overdose-deaths-decrease-for-18th-consecutive-month-under-trump-administration/"
+      },
+      {
+        "title": "Increasing Methadone Doses Associated with Improved Quality of Life (UConn Today, Nov 17, 2026)",
+        "url": "https://today.uconn.edu/2026/11/increasing-methadone-doses-associated-with-improved-quality-of-life"
+      },
+      {
+        "title": "The DEA telemedicine cliff: what ends December 31, 2026 (Morrow, Oct 21, 2026)",
+        "url": "https://morrowcounsel.com/writing/dea-telemedicine-prescribing-december-31-2026/"
+      },
+      {
+        "title": "Morning Rounds: News From November 9-16 (Psychiatric Times, Nov 16, 2026)",
+        "url": "https://www.psychiatrictimes.com/view/morning-rounds-news-from-november-9-16"
+      },
+      {
+        "title": "VA trial to study effects of GLP-1s for alcohol use disorder among veterans (Baylor College of Medicine, Nov 11, 2026; headline and search snippet only)",
+        "url": "https://blogs.bcm.edu/2026/11/11/va-trial-to-study-effects-of-glp-1s-for-alcohol-use-disorder/"
+      }
+    ],
+    "audio_url": "https://github.com/pearsonnt-netizen/podcast/releases/download/audio-2026-11/2026-11-23-psychiatry-weekly-cte-blood-markers-and-the-dea-telemedicine.m4a",
+    "asset": 783423526
+  },
+  {
     "guid": "7d79c849-8e27-4922-b3a0-664425c14784",
     "title": "Psychiatry Weekly: At-Home Igalmi and the Sublocade Study",
     "description": "The FDA approves the first at-home treatment for agitation in schizophrenia and bipolar disorder, an industry-funded Ontario study on extended-release buprenorphine and overdose, and phase 3 readouts in mania and depression. Neuropsychiatry and consultation-liaison were quiet.",
